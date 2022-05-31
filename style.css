@@ -16,7 +16,9 @@
     text-align: center;
   }
 
-.grid-item:hover{
-    background-color: rgb(32, 30, 30);
-    color: white;
+
+
+.hover{
+    background-color: black;
+    color:white
 }
